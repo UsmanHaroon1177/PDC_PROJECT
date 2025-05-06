@@ -74,7 +74,7 @@ Outputs:
 * *SOSP\_Update* is negligible when no distances change; costs grow with affected subgraph size.
 * *MOSP Heuristic* runs in milliseconds on the root; ensemble graph is orders of magnitude smaller than full graph.
 
-![Thread Scaling Chart](thread_scaling.png)
+
 
 ## Contributing
 
